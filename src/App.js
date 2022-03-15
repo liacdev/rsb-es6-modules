@@ -10,7 +10,7 @@ function App() {
         <p>JavaScript ES6 Modules</p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/SouthpawCurveConcepts/rsb-es6-modules"
           target="_blank"
           rel="noopener noreferrer"
         >
